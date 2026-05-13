@@ -1,0 +1,53 @@
+l. 
+Uso de scenarios con ramping controlado
+Definición de thresholds (criterios de aceptación)
+Manejo de errores
+Generación de reportes automatizados
+
+Esto lo hace apto para:
+
+pruebas en entornos de QA
+validaciones previas a producción
+integración en pipelines CI/CD
+
+
+2. Realismo del modelo de carga
+El cambio de stages simples a un escenario estructurado (ramping-vus) mejora significativamente:
+
+simulación de comportamiento gradual
+eliminación de picos artificiales extremos
+representación más cercana a usuarios reales
+
+3. Control de calidad mediante thresholds
+Permite:
+
+definir SLA claros
+automatizar el resultado (pass/fail)
+integrarse con herramientas DevOps
+
+
+
+4.Balance entre control y carga:
+El script logra un equilibrio adecuado entre:
+
+carga progresiva
+carga sostenida
+descenso controlado
+
+Esto permite evaluar:
+
+rendimiento bajo condiciones normales
+comportamiento en picos
+
+5. Conclusión general
+El código entregado representa un salto significativo en calidad y profesionalismo, pasando de una prueba básica a una estrategia de testing estructurada, medible y automatizable.
+Principales logros:
+
+Introducción de métricas objetivas (thresholds)
+Mejor simulación de usuarios reales
+Mayor resiliencia del test
+Generación de reportes automáticos
+
+Próximo paso recomendado:
+Evolucionar desde pruebas sintéticas hacia escenarios de negocio reales, incorporando flujos completos y datos dinámicos.
+capacidad de recuperación
